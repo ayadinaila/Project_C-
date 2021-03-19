@@ -4,7 +4,7 @@
 
 
 
-                        //AYADI NAILA ** KHELOUFI MERIEM  -- TP ALGO VECTEURS,MATRICES,listes chainees//
+                        //NAYLA ** -- TP ALGO VECTEURS,MATRICES,listes chainees//
 
 // fonction qui libere lespace memoire allouer a une matrice//
 void liberer(int **A,int n)
@@ -620,7 +620,7 @@ void trimat_bulle_decroi(int *tab,int n)
 
 // 5-   *********extraction d'une sous matrice*************/
 
-/* Extraction des sous matrice B de taille K et L a  partir de la
+/* Extraction des sous matrice B de taille K et L aÂ  partir de la
    matrice A de dimension N et M */
 void sousmatrice( int **A, int N, int M, int K, int L )
 {
